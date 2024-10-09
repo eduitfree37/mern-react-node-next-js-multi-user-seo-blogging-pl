@@ -1,0 +1,5 @@
+# MERN React Node Next.js Multi User SEO Blogging Platform
+
+Learn to create powerful, real-world SEO web applications with the MERN (Mongo Express React Node) stack through this comprehensive project-based course. Gain invaluable skills as a web developer and build live web apps in real time. Explore the ins and outs of Full Stack and MERN Stack web development, covering React, Node, Mongo DB, and NextJs. Master backend API construction using Node, Express, and Mongo DB, and develop responsive and dynamic frontend web apps with React and NextJs. Additionally, discover how to optimize your web app for SEO using NextJs, a robust framework for crafting high-performance React applications. Experience the ultimate in web development education with this transformative course. 
+
+[Detail](https://eduitfree.com/courses/mern-react-node-next-js-multi-user-seo-blogging-platform)
